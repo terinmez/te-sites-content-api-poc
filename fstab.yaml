@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://xwalk-renderer-poc.adobeaem.workers.dev/xwalkpage/130360%3A1272151%3A1534567d-9937-4e40-85ff-369a8ed45367/main/index.html"
+    url: "https://xwalk-renderer-poc.adobeaem.workers.dev/xwalkpage/130360%3A1272151%3A1534567d-9937-4e40-85ff-369a8ed45367/main"
     type: "markup"
     suffix: ".html"
