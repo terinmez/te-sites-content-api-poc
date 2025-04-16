@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/te-sites-content-api-poc/:/",
+    "/content/te-sites-content-api-poc/configuration:/.helix/config.json",
+    "/content/te-sites-content-api-poc/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/te-sites-content-api-poc/"
   ]
 }
